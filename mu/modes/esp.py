@@ -26,6 +26,7 @@ import os
 
 logger = logging.getLogger(__name__)
 
+#ESP32模块代码
 
 class ESPMode(MicroPythonMode):
     """
